@@ -1,4 +1,4 @@
-import "./app.css";
+import "./App.css";
 import { useCallback, useMemo, useRef, useEffect } from "react";
 import { useMotionValueEvent, useScroll, useTransform } from "framer-motion";
 
